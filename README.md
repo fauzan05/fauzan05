@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Fauzan</h1>
 <h3 align="center">A passionate as fullstack web developer from Indonesia</h3>
-<img align="center" src="https://drive.google.com/thumbnail?id=113N3d4FKaFY4X3ZUuyzxIV1Q9e880bt3" alt="Page Image" width="1000">
+<img align="center" src="https://drive.google.com/thumbnail?id=113N3d4FKaFY4X3ZUuyzxIV1Q9e880bt3" alt="Page Image" width="auto">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzan05&label=Profile%20views&color=0e75b6&style=flat" alt="fauzan05" /> </p>
 
