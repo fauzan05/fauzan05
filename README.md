@@ -1,3 +1,5 @@
+[![MasterHead](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)]
+
 <h1 align="center">Hi there 👋, I'm Fauzan</h1>
 <h3 align="center">A passionate as fullstack web developer from Indonesia</h3>
 <img align="center" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Page Image" width="auto">
