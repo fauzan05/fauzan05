@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Fauzan</h1>
 <h3 align="center">A passionate as fullstack web developer from Indonesia</h3>
-<h4 align="center">I'm currently as a student in Bina Nusantara University</h4>
+<h4 align="center">I am currently a student from Bina Nusantara Online Learning majoring in Information Systems</h4>
 <img align="center" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Page Image" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzan05&label=Profile%20views&color=0e75b6&style=flat" alt="fauzan05" /> </p>
