@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/guestaccess.aspx?share=EbIezgRD-TNNnz2UNMe2CHQBZhUwjOSviRLO4iJzWDBwOQ&e=QO6cYJ](https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/guestaccess.aspx?share=EbIezgRD-TNNnz2UNMe2CHQBZhUwjOSviRLO4iJzWDBwOQ&e=QO6cYJ)
 
-- 💬 Ask me about **Laravel, PHP, Go**
+- 💬 Ask me about **Laravel, PHP, Go, Fiber**
 
 - 📫 How to reach me **fauzannurhidayat8@gmail.com**
 
-- 📄 Know about my experiences [https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/guestaccess.aspx?share=Ec4KV0QnVitDp3iS9TFkt88BfF87paZzc2H6qvObZ7zSMw&e=tJ8005](https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/guestaccess.aspx?share=Ec4KV0QnVitDp3iS9TFkt88BfF87paZzc2H6qvObZ7zSMw&e=tJ8005)
+- 📄 Know about my experiences https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/guestaccess.aspx?share=EeUcTQik6wJBtdfnylJbMDIBBEcAILnrFNEDJ4ukQuRwyg&e=YyAvO9
 
 - ⚡ Fun fact **I think I'm stupid**
 
