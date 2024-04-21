@@ -15,8 +15,8 @@
 
 - 📫 How to reach me **fauzannurhidayat8@gmail.com**
 
-- 📄 Know about my experiences https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffauzan%5Fhidayat%5Fbinus%5Fac%5Fid%2FDocuments%2FCV%20Job%2FFauzan%2DNur%2DHidayat%2DResume%2Epdf&parent=%2Fpersonal%2Ffauzan%5Fhidayat%5Fbinus%5Fac%5Fid%2FDocuments%2FCV%20Job&ga=1
-
+- 📄 Know about my experiences https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/guestaccess.aspx?share=EapolJP8CT9DoofINhpvYDEBSTacZ-0kfa69GJZKn_TEag&e=DUNguq
+  
 - ⚡ Fun fact **I think that I'm so stupid**
 
 <h3 align="left">Connect with me:</h3>
