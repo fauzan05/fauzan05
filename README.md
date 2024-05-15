@@ -1,16 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Fauzan</h1>
 <h3 align="center">A passionate as fullstack web developer from Indonesia</h3>
-<img align="center" src="4949146.jpg" alt="Page Image" width="100%">
+<img align="center" src="4949146.jpg" alt="Page Image" width="100%" style="border-radius: 10px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzan05&label=Profile%20views&color=0e75b6&style=flat" alt="fauzan05" /> </p>
 
-- 🔭 I’m currently working on **freelance**
+- 🔭 I’m currently working as **freelance web developer**
 
-- 🌱 I’m currently learning **Go & Laravel**
+- 🌱 I’m currently learning **Go, PHP and Javascript**
 
 - 👨‍💻 All of my projects are available at [https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/guestaccess.aspx?share=EbIezgRD-TNNnz2UNMe2CHQBZhUwjOSviRLO4iJzWDBwOQ&e=QO6cYJ](https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/guestaccess.aspx?share=EbIezgRD-TNNnz2UNMe2CHQBZhUwjOSviRLO4iJzWDBwOQ&e=QO6cYJ)
 
-- 💬 Ask me about **Laravel, PHP, Go**
+- 💬 Ask me about **Laravel, PHP, Go, Livewire**
 
 - 📫 How to reach me **fauzannurhidayat8@gmail.com**
 
