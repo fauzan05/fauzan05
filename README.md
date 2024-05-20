@@ -8,15 +8,13 @@
 
 - 🌱 I’m currently learning **Go, PHP and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/guestaccess.aspx?share=EbIezgRD-TNNnz2UNMe2CHQBZhUwjOSviRLO4iJzWDBwOQ&e=QO6cYJ](https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/guestaccess.aspx?share=EbIezgRD-TNNnz2UNMe2CHQBZhUwjOSviRLO4iJzWDBwOQ&e=QO6cYJ)
+- 👨‍💻 All of my portofolios and resume are available at https://linktr.ee/fauzan114
 
 - 💬 Ask me about **Laravel, PHP, Go, Livewire**
 
 - 📫 How to reach me **fauzannurhidayat8@gmail.com**
 
-- 📄 Know about my experiences [https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/guestaccess.aspx?share=Ec4KV0QnVitDp3iS9TFkt88BfF87paZzc2H6qvObZ7zSMw&e=tJ8005](https://binusianorg-my.sharepoint.com/personal/fauzan_hidayat_binus_ac_id/_layouts/15/guestaccess.aspx?share=Ec4KV0QnVitDp3iS9TFkt88BfF87paZzc2H6qvObZ7zSMw&e=tJ8005)
-
-- ⚡ Fun fact **I think I'm stupid**
+- ⚡ Fun fact **I thought I'm stupid tho**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
