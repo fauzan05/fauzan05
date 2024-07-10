@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzan05&label=Profile%20views&color=0e75b6&style=flat" alt="fauzan05" /> </p>
 
-- 🔭 I’m currently working as **freelance web developer**
+- 🔭 I’m currently working as **fullstack web developer**
 
 - 🌱 I’m currently learning **Go, PHP and Javascript**
 
 - 👨‍💻 All of my portofolios and resume are available at https://linktr.ee/fauzan114
 
-- 💬 Ask me about **Laravel, PHP, Go, Livewire**
+- 💬 Ask me about **Laravel, PHP, Go, Livewire, Vue.js**
 
 - 📫 How to reach me **fauzannurhidayat8@gmail.com**
 
