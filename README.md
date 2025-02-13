@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzan05&show_icons=true&locale=en&layout=compact" alt="fauzan05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzan05&show_icons=true&locale=en" alt="fauzan05" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fauzan05&" alt="fauzan05" /></p>
