@@ -1,34 +1,44 @@
-<h1 align="center">Hi there 👋, you are welcome!</h1>
-<h3 align="center">A passionate as fullstack web developer from Indonesia</h3>
-<img align="center" src="4949146.jpg" alt="Page Image" width="100%" style="border-radius: 10px;">
+### Hi there, I'm Fauzan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzan05&label=Profile%20views&color=0e75b6&style=flat" alt="fauzan05" /> </p>
+I'm a passionate Full-Stack Web Developer who loves turning ideas into real, scalable solutions. I specialize in backend development with **PHP** and **Go**, and I'm also skilled in crafting responsive and modern UIs using **Vue.js**, **Livewire**, and **Bootstrap**.
 
-- 🔭 I’m currently working as **fullstack web developer**
+---
 
-- 🌱 I’m currently learning **Go, PHP and Javascript**
+#### 🚀 Tech Stack
 
-- 👨‍💻 All of my portofolios and resume are available at https://linktr.ee/fauzan114
+**Backend:**
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=laravel&logoColor=white)
+- ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E44D26?style=flat&logo=codeigniter&logoColor=white)
+- ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
+- ![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=go&logoColor=white&label=Fiber)
+- ![GORM](https://img.shields.io/badge/-GORM-00ADD8?style=flat&logo=go&logoColor=white&label=GORM)
 
-- 💬 Ask me about **Laravel, PHP, Go, Livewire, Vue.js**
+**Frontend:**
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+- ![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?style=flat&logo=laravel&logoColor=white&label=Livewire)
+- ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-- 📫 How to reach me **fauzannurhidayat8@gmail.com**
+---
 
-- ⚡ Fun fact **I thought I'm stupid tho**
+#### 🌱 What I'm Currently Working On
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@z_42642306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@z_42642306" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fauzan-nurhidayat-237b37177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fauzan nurhidayat" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21540954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21540954" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100004151599072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fauzan nur hidayat" height="30" width="40" /></a>
-<a href="https://instagram.com/__fauzan114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__fauzan114" height="30" width="40" /></a>
-<a href="https://discord.gg/fauzan.hidayat.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fauzan.hidayat.14" height="30" width="40" /></a>
-</p>
+- Building scalable web apps with Go Fiber & Laravel.
+- Experimenting with advanced UI/UX using Vue.js and Livewire.
+- Developing reusable components and clean architecture for modern web apps.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/thumbnail?id=1-ZTy44t4jkZvyV3eLtLVQDHrGUFz0-UE" alt="mariadb" width="40" height="40"/></a><img src="https://drive.google.com/thumbnail?id=1QXQtsHOH9ESRvplEcsL4UGVFAVrafOGt" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzan05&show_icons=true&locale=en&layout=compact" alt="fauzan05" /></p>
+#### 📫 Let's Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzan05&show_icons=true&locale=en" alt="fauzan05" /></p>
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 💻 [Portfolio](https://yourwebsite.com) *(optional)*
+- 📧 Email me at: your@email.com
+
+---
+
+> "Clean code, clean architecture, and clean UI — that's how I roll."
