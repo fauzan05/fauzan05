@@ -1,5 +1,7 @@
 ### Hi there, I'm Fauzan — aka fznh 👋
 
+<img src="./go-mascot.gif" alt="Go Mascot Coding" width="300" align="right" />
+
 I'm a passionate Full-Stack Web Developer who loves turning ideas into real, scalable solutions. I specialize in backend development with **PHP** and **Go**, and I'm also skilled in crafting responsive and modern UIs using **Vue.js**, **Livewire**, and **Bootstrap**. I also enjoy working with **Docker** to containerize projects and ensure smooth deployment.
 
 ---
