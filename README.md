@@ -1,6 +1,6 @@
-### Hi there, I'm Fauzan 👋
+### Hi there, I'm Fauzan — aka fznh 👋
 
-I'm a passionate Full-Stack Web Developer who loves turning ideas into real, scalable solutions. I specialize in backend development with **PHP** and **Go**, and I'm also skilled in crafting responsive and modern UIs using **Vue.js**, **Livewire**, and **Bootstrap**.
+I'm a passionate Full-Stack Web Developer who loves turning ideas into real, scalable solutions. I specialize in backend development with **PHP** and **Go**, and I'm also skilled in crafting responsive and modern UIs using **Vue.js**, **Livewire**, and **Bootstrap**. I also enjoy working with **Docker** to containerize projects and ensure smooth deployment.
 
 ---
 
@@ -23,6 +23,10 @@ I'm a passionate Full-Stack Web Developer who loves turning ideas into real, sca
 - ![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?style=flat&logo=laravel&logoColor=white&label=Livewire)
 - ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
+**Database & DevOps:**
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ---
 
 #### 🌱 What I'm Currently Working On
@@ -35,7 +39,7 @@ I'm a passionate Full-Stack Web Developer who loves turning ideas into real, sca
 
 #### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/fznh-dev](https://www.linkedin.com/in/fznh-dev/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/fznh-dev/)
 - 📧 Email me at: fauzannurhidayat8@gmail.com
 
 ---
