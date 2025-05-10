@@ -35,9 +35,8 @@ I'm a passionate Full-Stack Web Developer who loves turning ideas into real, sca
 
 #### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 💻 [Portfolio](https://yourwebsite.com) *(optional)*
-- 📧 Email me at: your@email.com
+- 💼 [LinkedIn](https://linkedin.com/in/fznh-dev](https://www.linkedin.com/in/fznh-dev/))
+- 📧 Email me at: fauzannurhidayat8@gmail.com
 
 ---
 
