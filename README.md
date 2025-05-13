@@ -15,6 +15,8 @@ I'm a passionate Full-Stack Web Developer who loves turning ideas into real, sca
 - ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
 - ![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=go&logoColor=white&label=Fiber)
 - ![GORM](https://img.shields.io/badge/-GORM-00ADD8?style=flat&logo=go&logoColor=white&label=GORM)
+- ![RESTful API](https://img.shields.io/badge/-RESTful%20API-6DB33F?style=flat&logo=json&logoColor=white&label=API)
+- ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-9B59B6?style=flat&logo=testing-library&logoColor=white)
 
 **Frontend:**
 - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -28,6 +30,7 @@ I'm a passionate Full-Stack Web Developer who loves turning ideas into real, sca
 **Database & DevOps:**
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
