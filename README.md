@@ -34,14 +34,6 @@ I'm a passionate Full-Stack Web Developer who loves turning ideas into real, sca
 
 ---
 
-### 📊 GitHub Stats
-
-![Fauzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fznh&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fznh&layout=compact&theme=radical)
-
----
-
 #### 🌱 What I'm Currently Working On
 
 - Building scalable web apps with Go Fiber & Laravel.
