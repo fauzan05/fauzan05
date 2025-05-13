@@ -1,4 +1,4 @@
-### Hi there, I'm Fauzan — aka fznh 👋
+### Hi there, I'm Fauzan 👋
 
 <img src="./go-mascot.gif" alt="Go Mascot Coding" width="300" align="right" />
 
