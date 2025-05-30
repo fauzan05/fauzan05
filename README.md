@@ -23,6 +23,8 @@ I'm a passionate Full-Stack Web Developer who loves turning ideas into real, sca
 - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 - ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 - ![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?style=flat&logo=laravel&logoColor=white&label=Livewire)
 - ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -37,7 +39,7 @@ I'm a passionate Full-Stack Web Developer who loves turning ideas into real, sca
 #### 🌱 What I'm Currently Working On
 
 - Building scalable web apps with Go Fiber & Laravel.
-- Experimenting with advanced UI/UX using Vue.js and Livewire.
+- Experimenting with advanced UI/UX using Vue.js, Nuxt, and Tailwind.
 - Developing reusable components and clean architecture for modern web apps.
 
 ---
