@@ -38,8 +38,8 @@ I'm a passionate Full-Stack Web Developer who loves turning ideas into real, sca
 
 #### 🌱 What I'm Currently Working On
 
-- Building scalable web apps with Go Fiber & Laravel.
-- Experimenting with advanced UI/UX using Vue.js, Nuxt, and Tailwind.
+- Building scalable web apps with Go Fiber, Codeigniter & Laravel.
+- Experimenting with advanced UI/UX using Vue.js, Nuxt, Bootstrap and Tailwind.
 - Developing reusable components and clean architecture for modern web apps.
 
 ---
